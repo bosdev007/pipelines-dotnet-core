@@ -1,6 +1,7 @@
 # Sample ASP.NET Core application for Azure Pipelines docs
 
 [![Build Status](https://dev.azure.com/rkrebs0256/RandomPlayground/_apis/build/status/bosdev007.pipelines-dotnet-core?branchName=master)](https://dev.azure.com/rkrebs0256/RandomPlayground/_build/latest?definitionId=1&branchName=master) April 09, 2019
+
 [![Build Status](https://mimeo.visualstudio.com/Passport/_apis/build/status/Junk33-CI?branchName=master)](https://mimeo.visualstudio.com/Passport/_build/latest?definitionId=493&branchName=master) February 21, 2019
 
 For information on how to use this repository, see [.NET Core](https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core).
